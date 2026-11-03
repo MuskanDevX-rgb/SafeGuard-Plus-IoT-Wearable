@@ -1,7 +1,7 @@
 🛡️ SafeGuard+ – Smart IoT Wearable for Women's Safety
 
 <p align="center">
-<img src="Images/1.pdf" alt="SafeGuard+ Banner" width="100%">
+[view SafeGuard Poster (pdf)](1.pdf)
 </p>
 <p align="center">
 <img src="Images/2.jpeg" alt="SafeGuard+ Banner" width="100%">
@@ -15,13 +15,6 @@
 
 <p align="center">
 **A Standalone IoT-Based Women's Safety Wearable Using ESP32, GPS and GSM Technology**
-</p>
-
-<p align="center">
-![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
-![Domain](https://img.shields.io/badge/Domain-IoT-green)
-![Language](https://img.shields.io/badge/Language-Embedded%20C%2FC++-orange)
-![Status](https://img.shields.io/badge/Project-Academic%20Prototype-purple)
 </p>
 
 📌 Project Overview
