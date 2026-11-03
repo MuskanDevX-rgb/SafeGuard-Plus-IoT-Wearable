@@ -7,10 +7,10 @@
 <img src="Images/2.jpeg" alt="SafeGuard+ Banner" width="100%">
 </p>
 <p align="center">
-<img src="Images/1.jpeg" alt="SafeGuard+ Banner" width="100%">
+<img src="Images/3.jpeg" alt="SafeGuard+ Banner" width="100%">
 </p>
 <p align="center">
-<img src="Images/1.jpeg" alt="SafeGuard+ Banner" width="100%">
+<img src="Images/4.jpeg" alt="SafeGuard+ Banner" width="100%">
 </p>
 
 <p align="center">
