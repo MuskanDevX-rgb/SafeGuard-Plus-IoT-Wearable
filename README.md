@@ -1,16 +1,16 @@
 🛡️ SafeGuard+ – Smart IoT Wearable for Women's Safety
 
 <p align="center">
-[view SafeGuard Poster (pdf)](1.pdf)
+<img src="Images2/21.jpg" alt="SafeGuard+ Banner" width="100%">
 </p>
 <p align="center">
-<img src="Images/2.jpeg" alt="SafeGuard+ Banner" width="100%">
+<img src="Images2/2.jpeg" alt="SafeGuard+ Banner" width="100%">
 </p>
 <p align="center">
-<img src="Images/3.jpeg" alt="SafeGuard+ Banner" width="100%">
+<img src="Images2/3.jpeg" alt="SafeGuard+ Banner" width="100%">
 </p>
 <p align="center">
-<img src="Images/4.jpeg" alt="SafeGuard+ Banner" width="100%">
+<img src="Images2/4.jpeg" alt="SafeGuard+ Banner" width="100%">
 </p>
 
 <p align="center">
